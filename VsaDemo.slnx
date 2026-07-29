@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="src/VsaDemo.Api/VsaDemo.Api.csproj" />
+  <Project Path="src/VsaDemo.Core/VsaDemo.Core.csproj" />
+  <Project Path="src/VsaDemo.Infrastructure/VsaDemo.Infrastructure.csproj" />
+  <Project Path="src/VsaDemo.Contracts/VsaDemo.Contracts.csproj" />
+  <Folder Name="/tests/">
+    <Project Path="tests/VsaDemo.Tests/VsaDemo.Tests.csproj" />
+  </Folder>
+</Solution>
